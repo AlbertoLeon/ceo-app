@@ -1,0 +1,9 @@
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.csprojAssemblyReference.cache
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.csproj.CoreCompileInputs.cache
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.AssemblyInfoInputs.cache
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.AssemblyInfo.cs
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\bin\Debug\netstandard2.0\CeoApi.Shares.deps.json
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\bin\Debug\netstandard2.0\CeoApi.Shares.dll
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\bin\Debug\netstandard2.0\CeoApi.Shares.pdb
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.dll
+D:\ceo-app\CeoApp.Api\CeoApi.Shares\obj\Debug\netstandard2.0\CeoApi.Shares.pdb

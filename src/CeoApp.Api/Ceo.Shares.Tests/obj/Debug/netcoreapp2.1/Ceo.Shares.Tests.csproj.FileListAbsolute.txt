@@ -1,0 +1,17 @@
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\CeoApi.Shares.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.csprojAssemblyReference.cache
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.csproj.CoreCompileInputs.cache
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.AssemblyInfoInputs.cache
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.AssemblyInfo.cs
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Ceo.Shares.Tests.deps.json
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Ceo.Shares.Tests.runtimeconfig.json
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Ceo.Shares.Tests.runtimeconfig.dev.json
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Ceo.Shares.Tests.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\Ceo.Shares.Tests.pdb
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\bin\Debug\netcoreapp2.1\CeoApi.Shares.pdb
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.csproj.CopyComplete
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.dll
+D:\ceo-app\CeoApp.Api\Ceo.Shares.Tests\obj\Debug\netcoreapp2.1\Ceo.Shares.Tests.pdb
